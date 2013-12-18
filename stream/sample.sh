@@ -1,0 +1,1 @@
+mjpg_streamer -i "input_uvc.so -f 30 -r 320x240 -d /dev/video0 -n" -o "output_http.so -p 8080 -w /usr/www"
