@@ -7,7 +7,9 @@ This project uses Raspberry Pi
 ==================
 This function is inplemented with Node.js.    
 When you feed cats and press the button, the timestamp is saved to MySQL Server  
-so that you can check when the cats were feeded on the web.  
+so that you can check when the cats were feeded on the web.
+
+__Instruction__
 
 2: Monitor Cats  
 ==================
