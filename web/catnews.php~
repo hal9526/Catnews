@@ -11,7 +11,7 @@
 
     <h1 class="center">
       <p>現在の猫の様子</p>
-      <img src="http://255.255.255.0:8080/?action=stream">
+      <img src="http://203.178.141.7:8080/?action=stream">
     </h1>
 
     <div class="box">
@@ -23,7 +23,7 @@
       
       <?php
 
-	 $link=mysqli_connect("host", "usr", "passwd", "db") or die("Error ". mysqli_error($link));
+	 $link=mysqli_connect("localhost", "root", "raspberry", "catnews") or die("Error ". mysqli_error($link));
 
 	 $query = "SELECT * FROM time" or die("Error" . mysqli_error($link));
 

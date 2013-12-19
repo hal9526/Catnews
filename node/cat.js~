@@ -17,10 +17,10 @@ function getcurrenttime() {
 }
 
 var connection = mysql.createConnection({
-    host:'host',
-    database:'db',
-    user:'usr',
-    password:'passwd'
+    host:'localhost',
+    database:'catnews',
+    user:'root',
+    password:'raspberry'
 });
 
 var query = connection.query('select * from time;', function(err, results) {
