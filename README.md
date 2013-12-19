@@ -46,4 +46,5 @@ Now mjpg_streamer server is up on port 8080
 
 
 3: Feed your cats automatically (on the web)  
-==================
+==================  
+1.Build your own autofeeder!
