@@ -1,7 +1,11 @@
 Catnews
 =======
 Integrated system for feeding and monitoring your cats  
-This project uses Raspberry Pi
+This project uses Raspberry Pi  
+  
+__Useful Materials__  
+http://blog.akagi.jp/archives/2952.html  
+http://blog.siliconhouse.jp/archives/51909567.html  
 
 1: Notify when the cats are feeded
 ==================
